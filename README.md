@@ -2538,9 +2538,13 @@ EditText editTextFilter=(EditText)view.findViewById(R.id.editTextFilter);
 ![KakaoTalk_20200623_211446340_15](https://user-images.githubusercontent.com/62926717/85405876-fa2c7f80-b59b-11ea-936c-cccf302df910.jpg)
 
 * 동일한 음료만 필터링으로 검색 결과를 나타냄
+
+
 ![KakaoTalk_20200623_211446340_17](https://user-images.githubusercontent.com/62926717/85405917-057fab00-b59c-11ea-85ab-dcd1fd12e09a.jpg)
 
 * 프랜차이즈 이름으로도 검색 가능
+
+
 ![KakaoTalk_20200623_211446340_18](https://user-images.githubusercontent.com/62926717/85405960-10d2d680-b59c-11ea-8736-ac491bdcb68c.jpg)
 
 ***
