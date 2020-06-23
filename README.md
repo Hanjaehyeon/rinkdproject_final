@@ -2571,3 +2571,5 @@ EditText editTextFilter=(EditText)view.findViewById(R.id.editTextFilter);
 * 음료 정보 Fragment를 구현하려고 했으나, 4000개의 음료마다 Fragment를 하나하나 만들어야해서 넣지 못했다.
 
 ***
+
+# 감사합니다 :
