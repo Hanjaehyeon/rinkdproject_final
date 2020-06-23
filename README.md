@@ -2488,6 +2488,61 @@ EditText editTextFilter=(EditText)view.findViewById(R.id.editTextFilter);
 
 ### 구현 사진
 
+#### 어플 첫 화면
+![image](https://user-images.githubusercontent.com/62926717/85406011-22b47980-b59c-11ea-88b7-f1a14a7250a3.png)
+
+#### 홈 카테고리
+![KakaoTalk_20200623_211446340_01](https://user-images.githubusercontent.com/62926717/85405089-dae12280-b59a-11ea-8c4d-0a7290263a0f.jpg)
+
+##### 홈 카테고리 - 지도
+![KakaoTalk_20200623_211446340_02](https://user-images.githubusercontent.com/62926717/85405182-f9dfb480-b59a-11ea-8322-cf8c16ea4444.jpg)
+
+* 내 위치 주변의 cafe 검색
+
+![KakaoTalk_20200623_211446340_04](https://user-images.githubusercontent.com/62926717/85405227-0d8b1b00-b59b-11ea-9475-e5cbecb0b2ff.jpg)
+
+
+##### 홈 카테고리 - 추천음료
+![Honeycam 2020-06-23 20-35-59](https://user-images.githubusercontent.com/62926717/85405300-2a275300-b59b-11ea-8257-f1ec85c808a6.gif)
+
+
+#### 프랜차이즈 카테고리 
+![KakaoTalk_20200623_211446340_05](https://user-images.githubusercontent.com/62926717/85405358-45925e00-b59b-11ea-8da2-3768396a6e05.jpg)
+![KakaoTalk_20200623_211446340_06](https://user-images.githubusercontent.com/62926717/85405417-58a52e00-b59b-11ea-8a9c-cc08edf85095.jpg)
+
+
+![KakaoTalk_20200623_211446340_07](https://user-images.githubusercontent.com/62926717/85405512-7d010a80-b59b-11ea-80fb-c2a048ca5fba.jpg)
+
+
+
+#### 음료 카테고리
+![KakaoTalk_20200623_211446340_09](https://user-images.githubusercontent.com/62926717/85405545-88eccc80-b59b-11ea-8a11-98049fd40add.jpg)
+![KakaoTalk_20200623_211446340_10](https://user-images.githubusercontent.com/62926717/85405574-9904ac00-b59b-11ea-93a7-8c37ea147a04.jpg)
+
+![KakaoTalk_20200623_211446340_11](https://user-images.githubusercontent.com/62926717/85405650-b46fb700-b59b-11ea-8402-409aabff33be.jpg)
+
+![KakaoTalk_20200623_211446340_12](https://user-images.githubusercontent.com/62926717/85405726-cc473b00-b59b-11ea-9371-9fcb281f9ca1.jpg)
+
+
+* HOT Tab
+
+
+![KakaoTalk_20200623_211446340_13](https://user-images.githubusercontent.com/62926717/85405757-d6693980-b59b-11ea-9885-488bbaa112e1.jpg)
+
+
+![KakaoTalk_20200623_211446340_14](https://user-images.githubusercontent.com/62926717/85405819-e84adc80-b59b-11ea-999a-63c8b65461d8.jpg)
+
+
+#### 검색 카테고리
+
+![KakaoTalk_20200623_211446340_15](https://user-images.githubusercontent.com/62926717/85405876-fa2c7f80-b59b-11ea-936c-cccf302df910.jpg)
+
+* 동일한 음료만 필터링으로 검색 결과를 나타냄
+![KakaoTalk_20200623_211446340_17](https://user-images.githubusercontent.com/62926717/85405917-057fab00-b59c-11ea-85ab-dcd1fd12e09a.jpg)
+
+* 프랜차이즈 이름으로도 검색 가능
+![KakaoTalk_20200623_211446340_18](https://user-images.githubusercontent.com/62926717/85405960-10d2d680-b59c-11ea-8736-ac491bdcb68c.jpg)
+
 ***
 
 ### 맡은 부분
