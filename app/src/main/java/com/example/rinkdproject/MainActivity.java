@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         imageView1 = (ImageView) findViewById(R.id.imageView);
 
+
         imageView1.setImageResource(R.drawable.loading);
         Handler timer = new Handler();
         timer.postDelayed(new Runnable(){
